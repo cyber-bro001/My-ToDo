@@ -1,4 +1,4 @@
-# My-ToDo 
+# QuickTasks 
 
 ## Your ultimate goal tracker.
 
