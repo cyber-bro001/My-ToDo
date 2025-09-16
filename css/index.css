@@ -31,12 +31,14 @@ body {
 
 .to-do-header{
   background-color: #121212;
-  width: 100%;
+  width: 90%;
   position: sticky;
   top: 0;
   left: 0;
   padding: 2rem .5rem 1.5rem;
   z-index: 100;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .to-do-h1{
@@ -155,3 +157,4 @@ p{
   font-size: .9rem;
   color: #6C6C6C;
 }
+
