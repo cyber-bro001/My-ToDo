@@ -24,21 +24,19 @@ body {
 
 
 .to-do-container {
-  width: 100%;
+  width: 90%;
   max-width: 540px;
   margin: auto;
 }
 
 .to-do-header{
   background-color: #121212;
-  width: 90%;
+  width: 100%;
   position: sticky;
   top: 0;
   left: 0;
   padding: 2rem .5rem 1.5rem;
   z-index: 100;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .to-do-h1{
